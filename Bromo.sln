@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bromo", "Bromo\Bromo.csproj", "{D557F5F0-7793-43A5-BAFD-03A3CF2B2D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D557F5F0-7793-43A5-BAFD-03A3CF2B2D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D557F5F0-7793-43A5-BAFD-03A3CF2B2D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D557F5F0-7793-43A5-BAFD-03A3CF2B2D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D557F5F0-7793-43A5-BAFD-03A3CF2B2D73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82A2D26-1039-4D46-B79B-BAD2A40BE10C}
+	EndGlobalSection
+EndGlobal
